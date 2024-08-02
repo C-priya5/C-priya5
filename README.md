@@ -1,7 +1,7 @@
 <p align='center'>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!!;I'm+Chandra+Priya" alt="Typing SVG" /></a>
 </p>
-<p align='center'>I am currently pursuing B.tech in Computer Science from <span STYLE="text-decoration:underline">PES UNIVERSITY, BANGALORE</span></p>
+<p align='center'>I am currently pursuing B.tech in Computer Science from <span STYLE="text-decoration:underline">PES UNIVERSITY, BANGLORE</span></p>
 <p align='center'>- 📫 How to reach me chandrapriya0503@gmail.com 
 </p>
 <hr style="width:500">
